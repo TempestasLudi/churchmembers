@@ -1,0 +1,38 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+#Base url of website. Example: http://localhost/churchmembers -> /churchmembers/
+RewriteBase /churchmembers/ 
+
+#RewriteCond %{HTTPS} !=on
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+
+RewriteRule ^download/(.*)$ model/classes/ProcessRequest.php?action=getdata&type=download&file=$1 [L]
+
+AddType text/x-component .htc
+
+#Cache images and other file types
+#Need mod_headers/headers_module
+#<FilesMatch "\.(css|ico|png|gif)$">
+#cache for 2 hours, but check if file is modified
+#Header set Cache-Control "max-age=7200, public, must-revalidate"
+#</FilesMatch>
+
+#<FilesMatch "\.(js|jpg)$">
+#Header set Cache-Control "max-age=60, public, must-revalidate"
+#</FilesMatch>
+
+#Turn off an index listing
+Options -Indexes
+
+#Prevent access to .htaccess and .htpasswd files
+<Files ~ "^\.ht">
+order deny,allow
+deny from all
+</FILES>
+
+#Prevent access to .version files
+<Files ~ "^\.version">
+order deny,allow
+deny from all
+</FILES>

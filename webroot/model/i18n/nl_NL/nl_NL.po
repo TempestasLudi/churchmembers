@@ -1,0 +1,2421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Churchmembers - 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-02 14:47+0100\n"
+"PO-Revision-Date: 2012-11-02 14:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../index.php:104 ../../../mobile/index.php:44
+msgid "Home"
+msgstr "Start"
+
+#: ../../../index.php:107 ../../../mobile/index.php:45
+#: ../../../model/classes/TemplateParser.php:475
+#: ../../../model/processors/GetExportDataProcessor.php:52
+#: ../../../model/processors/GetGroupDataProcessor.php:76
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:159
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:108
+msgid "Addresses"
+msgstr "Adressen"
+
+#: ../../../index.php:112
+#: ../../../model/processors/GetExportDataProcessor.php:58
+#: ../../../model/processors/GetExportDataProcessor.php:64
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:195
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:196
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:237
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:144
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:156
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:159
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:216
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:247
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:248
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:9
+msgid "Groups"
+msgstr "Groepen"
+
+#: ../../../index.php:117 ../../../index.php:168 ../../../mobile/index.php:54
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../../../index.php:122
+msgid "Lists"
+msgstr "Lijsten"
+
+#: ../../../index.php:127 ../../../mobile/index.php:46
+msgid "Map"
+msgstr "Kaart"
+
+#: ../../../index.php:132
+msgid "Send mail"
+msgstr "Mailen"
+
+#: ../../../index.php:137
+#: ../../../model/processors/GetExportDataProcessor.php:82
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:194
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:221
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:222
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:143
+msgid "Photobook"
+msgstr "Fotoboek"
+
+#: ../../../index.php:143
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:235
+msgid "Archive"
+msgstr "Archief"
+
+#: ../../../index.php:147 ../../../mobile/index.php:47
+msgid "Logout"
+msgstr "Afmelden"
+
+#: ../../../index.php:152 ../../../model/i18n/locale.js.php:42
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:145
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:161
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:189
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../../../index.php:159 ../../../index.php:190 ../../../index.php:197
+msgid "Loading data"
+msgstr "Laden gegevens..."
+
+#: ../../../index.php:167
+msgid "Search members or addresses"
+msgstr "Zoek leden of adressen"
+
+#: ../../../index.php:169
+msgid "Advanced search"
+msgstr "Uitgebreid zoeken"
+
+#: ../../../index.php:177 ../../../login.php:71 ../../../setup1/index.php:195
+msgid ""
+"Javascript is disabled on your computer. You need Javascript to run this "
+"application"
+msgstr ""
+"U kunt geen gebruik maken van de applicatie omdat javascript is "
+"uitgeschakeld (<a href=\"http://www.activatejavascript.org/\" title=\"http://"
+"www.activatejavascript.org/\">http://www.activatejavascript.org/</a>)"
+
+#: ../../../index.php:185
+msgid "Are you sure?"
+msgstr "Let op!"
+
+#: ../../../index.php:195
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:155
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:156
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:263
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:100
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:101
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:245
+msgid "Export"
+msgstr "Exporteren"
+
+#: ../../../index.php:198
+msgid "Selected file is prepared for download. Wait a second..."
+msgstr "Het geselecteerde bestand wordt gereed gemaakt. Een ogenblik geduld."
+
+#: ../../../index.php:211 ../../../mobile/index.php:23
+#: ../../../mobile/index.php:38 ../../../mobile/index.php:41
+#: ../../../mobile/login.php:23 ../../../mobile/login.php:64
+#: ../../../model/i18n/locale.js.php:22
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:60
+msgid "ChurchMembers"
+msgstr "Kerkelijk  Bureau"
+
+#: ../../../login.php:24
+msgid "ChurchMembers - Login"
+msgstr "Kerkelijk Bureau - Login"
+
+#: ../../../login.php:69
+msgid "User Login"
+msgstr "Inloggen"
+
+#: ../../../login.php:70 ../../../login.php:98 ../../../setup1/index.php:198
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:197
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:198
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:10
+msgid "Welcome"
+msgstr "Welkom"
+
+#: ../../../login.php:81 ../../../mobile/login.php:53
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:33
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../../../login.php:85 ../../../mobile/login.php:54
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../../../login.php:90 ../../../offline.php:90 ../../../mobile/login.php:38
+#: ../../../mobile/login.php:55
+msgid "Login"
+msgstr "Aanmelden"
+
+#: ../../../offline.php:31
+msgid "ChurchMembers - Offline"
+msgstr "Kerkelijk Bureau - Niet bereikbaar"
+
+#: ../../../offline.php:73 ../../../offline.php:98
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:26
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:27
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:37
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:38
+msgid "Maintenance"
+msgstr "Onderhoud"
+
+#: ../../../offline.php:82
+msgid ""
+"Churchmembers is currently under maintenance and therefore not available. "
+"Please try again next hour."
+msgstr ""
+"De ledenadministratie is momenteel in onderhoud en daarom niet bereikbaar. "
+"Probeer het nogmaals over een uur."
+
+#: ../../../model/classes/Authentication.php:97
+msgid "User isn't currently in the session. Session is ended. Please login."
+msgstr "U bent niet ingelogd op deze site. Log opnieuw in."
+
+#: ../../../model/classes/Authentication.php:106
+#: ../../../model/classes/Authentication.php:280
+msgid "Current session is ended. Please login."
+msgstr "U bent te lang niet actief geweest op deze site. Log opnieuw in."
+
+#: ../../../model/classes/Authentication.php:141
+#: ../../../model/classes/Authentication.php:171
+msgid "To many failed login attempts are made. Try again within a hour."
+msgstr ""
+"U kunt momenteel niet inloggen omdat u te vaak heeft geprobeerd in te loggen "
+"met onjuiste gegevens. Probeer het over een uur nog eens."
+
+#: ../../../model/classes/Authentication.php:151
+msgid "Username or password is invalid"
+msgstr "Gebruikersnaam of wachtwoord is onjuist"
+
+#: ../../../model/classes/Authentication.php:190
+#, php-format
+msgid "%s is not found. Set auth_validationurl in systemsettings."
+msgstr "%s is niet gevonden. Geef een gelden 'validatie url'."
+
+#: ../../../model/classes/Authentication.php:195
+msgid "auth_validationurl is not valid"
+msgstr "Geef een geldige validatie url op"
+
+#: ../../../model/classes/Authentication.php:218
+msgid "You are not logged in. Please login."
+msgstr "U bent niet ingelogd op de hoofdsite. Log opnieuw in."
+
+#: ../../../model/classes/Authentication.php:235
+msgid "This username is blocked. Try again within a hour."
+msgstr "Deze gebruikersnaam is geblokkeerd. Probeer het over een uur nog eens."
+
+#: ../../../model/classes/Database.php:46
+msgid "Database error: Cannot connect to database"
+msgstr "Database foutmelding: Kan geen verbinding maken met de database"
+
+#: ../../../model/classes/Database.php:80
+#: ../../../model/classes/Database.php:102
+msgid "Database error: multiple users with the same username."
+msgstr ""
+"Database foutmelding: er zijn meerdere gebruikers met dezelfde "
+"gebruikersnaam. De database is corrupt."
+
+#: ../../../model/classes/Database.php:1550
+#: ../../../model/classes/Database.php:1553
+#: ../../../model/classes/Database.php:1556
+#: ../../../model/classes/Database.php:1559
+#: ../../../model/classes/Database.php:1562
+#: ../../../model/classes/Database.php:1565
+#, php-format
+msgid "Entered with %s"
+msgstr "Binnengekomen met %s"
+
+#: ../../../model/classes/Database.php:1550
+#: ../../../model/classes/Database.php:1628
+msgid "Birth testimony"
+msgstr "Doopattest"
+
+#: ../../../model/classes/Database.php:1553
+#: ../../../model/classes/Database.php:1631
+msgid "Confession testimony"
+msgstr "Belijdenisattest"
+
+#: ../../../model/classes/Database.php:1556
+#: ../../../model/classes/Database.php:1598
+#: ../../../model/classes/Database.php:1613
+#: ../../../model/classes/Database.php:1634
+msgid "Guest membership"
+msgstr "Gastlidmaatschap"
+
+#: ../../../model/classes/Database.php:1559
+msgid "Membership"
+msgstr "Lidmaatschap"
+
+#: ../../../model/classes/Database.php:1562
+#: ../../../model/classes/Database.php:1601
+#: ../../../model/classes/Database.php:1637
+msgid "Stay testimony"
+msgstr "Verblijfsattest"
+
+#: ../../../model/classes/Database.php:1565
+#: ../../../model/classes/Database.php:1604
+#: ../../../model/classes/Database.php:1640
+msgid "Travel testimony"
+msgstr "Reisattest"
+
+#: ../../../model/classes/Database.php:1568
+msgid "Became a member of the church"
+msgstr "Bij de kerk gevoegd"
+
+#: ../../../model/classes/Database.php:1571
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:184
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:204
+msgid "Baptised"
+msgstr "Gedoopt"
+
+#: ../../../model/classes/Database.php:1574
+msgid "Birth"
+msgstr "Geboren"
+
+#: ../../../model/classes/Database.php:1577
+msgid "Changed email (work)"
+msgstr "Nieuw emailadres (werk)"
+
+#: ../../../model/classes/Database.php:1580
+msgid "Changed phone number (work)"
+msgstr "Nieuw telefoonummer (werk)"
+
+#: ../../../model/classes/Database.php:1583
+msgid "Changed email"
+msgstr "Nieuw emailadres"
+
+#: ../../../model/classes/Database.php:1586
+msgid "Changed email (home)"
+msgstr "Nieuw emailadres (thuis)"
+
+#: ../../../model/classes/Database.php:1589
+msgid "Changed phone number (home)"
+msgstr "Nieuw telefoonnummer (thuis)"
+
+#: ../../../model/classes/Database.php:1592
+msgid "Changed phone number"
+msgstr "Nieuw telefoonnummer"
+
+#: ../../../model/classes/Database.php:1595
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:185
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:208
+msgid "Confession"
+msgstr "Belijdenis"
+
+#: ../../../model/classes/Database.php:1598
+#: ../../../model/classes/Database.php:1601
+#: ../../../model/classes/Database.php:1604
+#, php-format
+msgid "Elongation of %s"
+msgstr "Verlenging van %s"
+
+#: ../../../model/classes/Database.php:1607
+msgid "Died"
+msgstr "Overleden"
+
+#: ../../../model/classes/Database.php:1610
+msgid "Divorce"
+msgstr "Scheiding"
+
+#: ../../../model/classes/Database.php:1613
+#, php-format
+msgid "End of %s"
+msgstr "Beëindiging %s"
+
+#: ../../../model/classes/Database.php:1616
+msgid "Gone"
+msgstr "Onttrokken"
+
+#: ../../../model/classes/Database.php:1619
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:214
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:233
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:186
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:212
+msgid "Marriage"
+msgstr "Huwelijk"
+
+#: ../../../model/classes/Database.php:1622
+msgid "Changed of address"
+msgstr "Adreswijziging"
+
+#: ../../../model/classes/Database.php:1625
+#, php-format
+msgid "Moved to %s"
+msgstr "Vertrokken naar %s"
+
+#: ../../../model/classes/Database.php:1625
+msgid "Abroard"
+msgstr "Buitenland"
+
+#: ../../../model/classes/Database.php:1628
+#: ../../../model/classes/Database.php:1631
+#: ../../../model/classes/Database.php:1634
+#: ../../../model/classes/Database.php:1637
+#: ../../../model/classes/Database.php:1640
+#, php-format
+msgid "Left with %s"
+msgstr "Vertrokken met %s"
+
+#: ../../../model/classes/Database.php:1643
+msgid "Sick"
+msgstr "Opgenomen"
+
+#: ../../../model/classes/Database.php:1646
+msgid "No reason / wont keep"
+msgstr "Geen reden / Niet bewaren"
+
+#: ../../../model/classes/Database.php:2434
+#, php-format
+msgid ""
+"(<a href='http://sourceforge.net/projects/churchmembers/' "
+"target='_blank'>You are using an older version. Update now to version %s !</"
+"a>)"
+msgstr ""
+"(<a href='http://sourceforge.net/projects/churchmembers/' target='_blank'>U "
+"gebruikt een oude versie. Update nu naar versie %s</a>)"
+
+#: ../../../model/classes/Database.php:2436
+msgid "(This is the latest version)"
+msgstr "Laatste versie"
+
+#: ../../../model/classes/ErrorHandler.php:75
+msgid "is <b>not</b> successful changed<br/><br/>"
+msgstr "is <b>niet</b> succesvol gewijzigd<br/><br/>"
+
+#: ../../../model/classes/ErrorHandler.php:81
+msgid "Member is <b>not</b> successful moved"
+msgstr "Het lid is <b>niet</b> succesvol verhuisd"
+
+#: ../../../model/classes/ErrorHandler.php:87
+msgid "Address is <b>not</b> successful moved"
+msgstr "Het adres is <b>niet</b> succesvol verhuisd"
+
+#: ../../../model/classes/ErrorHandler.php:93
+#: ../../../model/processors/DialogDataProcessor.php:169
+msgid "Member is <b>not</b> successful archived"
+msgstr "Lid is <b>niet</b> succesvol gearchiveerd"
+
+#: ../../../model/classes/ErrorHandler.php:99
+#: ../../../model/processors/DialogDataProcessor.php:275
+msgid "Address is <b>not</b> successful archived"
+msgstr "Adres is <b>niet</b> succesvol gearchiveerd"
+
+#: ../../../model/classes/ErrorHandler.php:105
+#: ../../../model/processors/DialogDataProcessor.php:154
+msgid "Member is <b>not</b> successful deleted"
+msgstr "Lid is <b>niet</b> succesvol verwijderd"
+
+#: ../../../model/classes/ErrorHandler.php:111
+#: ../../../model/processors/DialogDataProcessor.php:255
+msgid "Address is <b>not</b> successful deleted"
+msgstr "Adres is <b>niet</b> succesvol verwijderd"
+
+#: ../../../model/classes/ErrorHandler.php:117
+#: ../../../model/processors/DialogDataProcessor.php:101
+#: ../../../model/processors/DialogDataProcessor.php:126
+#: ../../../model/processors/DialogDataProcessor.php:202
+#: ../../../model/processors/DialogDataProcessor.php:229
+#: ../../../model/processors/DialogDataProcessor.php:377
+msgid "Event is <b>not</b> successful added. Try again."
+msgstr "Gebeurtenis is <b>niet</b> succesvol toegevoegd. Probeer opnieuw."
+
+#: ../../../model/classes/ErrorHandler.php:123
+msgid "Members are <b>not</b> successful sorted "
+msgstr "De leden zijn <b>niet</b> succesvol gesorteerd"
+
+#: ../../../model/classes/ErrorHandler.php:129
+msgid "Address is <b>not</b> successful added"
+msgstr "Het adres is <b>niet</b> succesvol toegevoegd"
+
+#: ../../../model/classes/ErrorHandler.php:136
+msgid "Member is <b>not</b> successful added"
+msgstr "Het lid is <b>niet</b> succesvol toegevoegd"
+
+#: ../../../model/classes/ErrorHandler.php:143
+msgid "Group is <b>not</b>successful added."
+msgstr "De groep is <b>niet</b> succesvol toegevoegd"
+
+#: ../../../model/classes/ErrorHandler.php:150
+msgid "Member is <b>not</b> successful removed from the groups"
+msgstr "Lid is <b>niet</b> succesvol verwijderd uit de groepen"
+
+#: ../../../model/classes/ErrorHandler.php:156
+msgid "Member is <b>not</b> successful added to the groups"
+msgstr "Lid is <b>niet</b> succesvol toegevoegd aan de groepen"
+
+#: ../../../model/classes/ErrorHandler.php:162
+msgid "Creation of thumbnail has failed"
+msgstr "Het aanmaken van het thumbnail bestand is mislukt"
+
+#: ../../../model/classes/Sendmail.php:92
+msgid "The mail has been sent successfully"
+msgstr "De email is met succes verstuurd!"
+
+#: ../../../model/classes/TemplateParser.php:200
+#: ../../../model/classes/TemplateParser.php:407
+#: ../../../model/processors/GetExportDataProcessor.php:378
+#: ../../../model/processors/GetExportDataProcessor.php:524
+#: ../../../model/processors/GetReportDataProcessor.php:437
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:251
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:42
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:230
+msgid "Male"
+msgstr "Man"
+
+#: ../../../model/classes/TemplateParser.php:200
+#: ../../../model/classes/TemplateParser.php:409
+#: ../../../model/processors/GetExportDataProcessor.php:378
+#: ../../../model/processors/GetExportDataProcessor.php:524
+#: ../../../model/processors/GetReportDataProcessor.php:437
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:252
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:43
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:231
+msgid "Female"
+msgstr "Vrouw"
+
+#: ../../../model/classes/TemplateParser.php:207
+#: ../../../model/classes/TemplateParser.php:530
+msgid "Profile is empty"
+msgstr "<em>Dit lid heeft zich nog niet voorgesteld</em>"
+
+#: ../../../model/classes/TemplateParser.php:226
+msgid "Contains the following groups"
+msgstr "Bevat de volgende groepen"
+
+#: ../../../model/classes/TemplateParser.php:379
+msgid "No recent mutations"
+msgstr "Geen recente wijzigingen"
+
+#: ../../../model/classes/TemplateParser.php:435
+msgid "Show complete Birth date"
+msgstr "Volledige geboortedatum weergeven"
+
+#: ../../../model/classes/TemplateParser.php:436
+msgid "Show only birth year"
+msgstr "Alleen geboortejaar weergeven"
+
+#: ../../../model/classes/TemplateParser.php:437
+msgid "Hide birth date"
+msgstr "Geen geboortedatum weergeven"
+
+#: ../../../model/classes/TemplateParser.php:474
+#: ../../../model/processors/GetGroupDataProcessor.php:42
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:136
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:99
+msgid "Members"
+msgstr "Leden"
+
+#: ../../../model/classes/TemplateParser.php:495
+msgid "Allowed"
+msgstr "Toegestaan"
+
+#: ../../../model/classes/TemplateParser.php:525
+msgid "Your profile is empty"
+msgstr "<em>Je hebt jezelf nog niet voorgesteld</em>"
+
+#: ../../../model/classes/TemplateParser.php:560
+msgid "Export to PDF"
+msgstr "Exporteer naar PDF"
+
+#: ../../../model/classes/TemplateParser.php:691
+#: ../../../model/classes/TemplateParser.php:713
+msgid "Select an action"
+msgstr "Selecteer een actie"
+
+#: ../../../model/classes/TemplateParser.php:693
+msgid "Add address"
+msgstr "Nieuw adres"
+
+#: ../../../model/classes/TemplateParser.php:694
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:60
+msgid "Move address"
+msgstr "Adres verhuizen"
+
+#: ../../../model/classes/TemplateParser.php:695
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:77
+msgid "Unsubscribe address"
+msgstr "Adres uitschrijven"
+
+#: ../../../model/classes/TemplateParser.php:705
+#: ../../../model/classes/TemplateParser.php:706
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:32
+msgid "Add member"
+msgstr "Voeg een nieuw lid toe"
+
+#: ../../../model/classes/TemplateParser.php:715
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:52
+msgid "Add event"
+msgstr "Voeg gebeurtenis toe"
+
+#: ../../../model/classes/TemplateParser.php:716
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:73
+msgid "Move member"
+msgstr "Verhuis lid"
+
+#: ../../../model/classes/TemplateParser.php:717
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:83
+msgid "Unsubscribe member"
+msgstr "Lid uitschrijven"
+
+#: ../../../model/i18n/locale.js.php:23
+msgid ""
+"Your browser doesn't support Javascript or AJAX. You need Javascript and "
+"AJAX to run this application "
+msgstr ""
+"De browser ondersteunt geen Javascript of AJAX. Daardoor kunt u geen gebruik "
+"maken van de applicatie."
+
+#: ../../../model/i18n/locale.js.php:24
+msgid "Use between [min] and [max] characters"
+msgstr "Gebruik tussen de [min] en [max] tekens"
+
+#: ../../../model/i18n/locale.js.php:25
+#: ../../../model/processors/DialogDataProcessor.php:781
+msgid "Please use a valid emailaddress. ex: 'example@domain.com'"
+msgstr "Gebruik een geldig emailadres. bijvoorbeeld: 'voorbeeld@adres.nl'"
+
+#: ../../../model/i18n/locale.js.php:26
+msgid "There are still members on this address. Remove those first."
+msgstr "Er zijn nog leden op dit adres aanwezig. Verwijder deze eerst."
+
+#: ../../../model/i18n/locale.js.php:27
+msgid "You didn't select a member to delete"
+msgstr "Er is geen kerklid geselecteerd om te verwijderen."
+
+#: ../../../model/i18n/locale.js.php:28
+msgid "There are still members in this group. Delete those first"
+msgstr ""
+"U kunt deze groep niet verwijderen als er nog leden in de groep zitten."
+
+#: ../../../model/i18n/locale.js.php:29
+msgid "Create a new address before adding new members"
+msgstr ""
+"Er dient eerst een adres te worden aangemaakt voordat u een nieuw lid kunt "
+"toevoegen."
+
+#: ../../../model/i18n/locale.js.php:30
+msgid "You didn't select a member to move"
+msgstr "Er is geen kerklid geselecteerd om te verhuizen."
+
+#: ../../../model/i18n/locale.js.php:31
+msgid "You didn't select a member to archive"
+msgstr "Er is geen kerklid geselecteerd om te archiveren."
+
+#: ../../../model/i18n/locale.js.php:32
+msgid "You didn't select an address to archive"
+msgstr "Er is geen adres geselecteerd om te archiveren."
+
+#: ../../../model/i18n/locale.js.php:33
+msgid "Searching..."
+msgstr "Zoeken..."
+
+#: ../../../model/i18n/locale.js.php:34
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../../../model/i18n/locale.js.php:35
+msgid "Edit"
+msgstr "Wijzigen"
+
+#: ../../../model/i18n/locale.js.php:36
+msgid "Ok"
+msgstr "Ok"
+
+#: ../../../model/i18n/locale.js.php:37 ../../../setup1/index.php:115
+msgid "Close"
+msgstr "Sluiten"
+
+#: ../../../model/i18n/locale.js.php:38 ../../../setup1/index.php:113
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:129
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:90
+msgid "Next"
+msgstr "Volgende"
+
+#: ../../../model/i18n/locale.js.php:39 ../../../setup1/index.php:114
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:128
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:89
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../../../model/i18n/locale.js.php:40
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:211
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:164
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../../../model/i18n/locale.js.php:41
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../../../model/i18n/locale.js.php:43
+msgid "Download"
+msgstr "Download"
+
+#: ../../../model/i18n/locale.js.php:44
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:151
+msgid "Send"
+msgstr "Verzenden"
+
+#: ../../../model/i18n/locale.js.php:45
+msgid "Preview of email"
+msgstr "Voorbeeld e-mail"
+
+#: ../../../model/i18n/locale.js.php:46
+msgid "Send email"
+msgstr "Verstuur e-mail"
+
+#: ../../../model/i18n/locale.js.php:47
+msgid "Failed"
+msgstr "Mislukt"
+
+#: ../../../model/i18n/locale.js.php:48
+msgid "Select a file"
+msgstr "Selecteer een bestand"
+
+#: ../../../model/i18n/locale.js.php:49
+msgid "Drag a file for upload"
+msgstr "Sleep een bestand om te versturen"
+
+#: ../../../model/i18n/locale.js.php:50
+msgid ""
+"{file} doesn't have a valid extension. Only {extensions} files will be "
+"accepted."
+msgstr ""
+"{file} heeft niet de juiste extensie, alleen {extensions} bestanden zijn "
+"toegestaan."
+
+#: ../../../model/i18n/locale.js.php:51
+msgid "{file} is to large. Maximum filesize is {sizeLimit}."
+msgstr "{file} is te groot, maximum file grootte is {sizeLimit}."
+
+#: ../../../model/i18n/locale.js.php:52
+msgid "{file} is to small. Minimum filesize is {minSizeLimit}."
+msgstr "{file} is te klein, minimum file grootte is {minSizeLimit}."
+
+#: ../../../model/i18n/locale.js.php:53
+msgid "{file}  is empty. Select another file and try again."
+msgstr "{file} is leeg, selecteer een ander bestand en probeer opnieuw."
+
+#: ../../../model/i18n/locale.js.php:54
+msgid "If you leave this page your changes will not be saved. Are you sure?"
+msgstr ""
+"Er worden bestanden verstuurd, als u de pagina nu verlaat zullen deze acties "
+"worden geannuleerd."
+
+#: ../../../model/i18n/locale.js.php:55
+msgid "Show all"
+msgstr "Toon alles"
+
+#: ../../../model/i18n/locale.js.php:56
+msgid "Add Group"
+msgstr "Voeg een nieuwe groep toe"
+
+#: ../../../model/i18n/locale.js.php:57
+msgid "Delete Group"
+msgstr "Verwijder groep"
+
+#: ../../../model/i18n/locale.js.php:58
+msgid "Rename Group"
+msgstr "Hernoem groep"
+
+#: ../../../model/i18n/locale.js.php:59
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:262
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:244
+msgid "Remove grouping"
+msgstr "Verwijder groepering"
+
+#: ../../../model/i18n/locale.js.php:60
+msgid "Group by address"
+msgstr "Groeperen op adres"
+
+#: ../../../model/processors/AbstractProcessor.php:30
+#: ../../../model/processors/GetExportDataProcessor.php:306
+msgid "Mr"
+msgstr "Br."
+
+#: ../../../model/processors/AbstractProcessor.php:30
+#: ../../../model/processors/GetExportDataProcessor.php:306
+msgid "Ms"
+msgstr "Zr."
+
+#: ../../../model/processors/AbstractProcessor.php:31
+#: ../../../model/processors/GetExportDataProcessor.php:307
+msgid "Fam."
+msgstr "Fam."
+
+#: ../../../model/processors/DialogDataProcessor.php:96
+msgid "Member is successful added"
+msgstr "Het lid is succesvol toegevoegd"
+
+#: ../../../model/processors/DialogDataProcessor.php:121
+msgid "Member is successful moved"
+msgstr "Het lid is succesvol verhuisd"
+
+#: ../../../model/processors/DialogDataProcessor.php:145
+msgid "Member is successful deleted"
+msgstr "Het lid is succesvol verwijderd"
+
+#: ../../../model/processors/DialogDataProcessor.php:195
+msgid "Address is successful added"
+msgstr "Het adres is succesvol toegevoegd"
+
+#: ../../../model/processors/DialogDataProcessor.php:224
+msgid "Address is successful moved"
+msgstr "Het adres is succesvol verhuisd"
+
+#: ../../../model/processors/DialogDataProcessor.php:248
+#: ../../../model/processors/DialogDataProcessor.php:655
+msgid "Data successful deleted"
+msgstr "Data succesvol verwijderd"
+
+#: ../../../model/processors/DialogDataProcessor.php:268
+msgid "Address is successful archived"
+msgstr "Het adres is succesvol gearchiveerd"
+
+#: ../../../model/processors/DialogDataProcessor.php:372
+msgid "Event is successful added"
+msgstr "De gebeurtenis is succesvol toegevoegd."
+
+#: ../../../model/processors/DialogDataProcessor.php:396
+msgid "Your changes are saved."
+msgstr "De wijzigingen zijn opgeslagen"
+
+#: ../../../model/processors/DialogDataProcessor.php:660
+msgid "Event is <b>not</b> successful deleted. Try again."
+msgstr "Gebeurtenis is <b>niet</b> succesvol toegevoegd. Probeer opnieuw."
+
+#: ../../../model/processors/DialogDataProcessor.php:665
+msgid ""
+"You are about to delete this event is. This action cannot be undone. Do you "
+"want to continue?"
+msgstr ""
+"U staat op het punt deze gebeurtenis te verwijderen. Deze actie kan niet "
+"ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#: ../../../model/processors/DialogDataProcessor.php:682
+msgid "Group is successful added"
+msgstr "De groep is succesvol toegevoegd"
+
+#: ../../../model/processors/DialogDataProcessor.php:687
+msgid "Group is <b>not</b> successful added. Try again."
+msgstr "De groep is <b>niet</b> succesvol toegevoegd. Probeer opnieuw."
+
+#: ../../../model/processors/DialogDataProcessor.php:707
+msgid "Group is successful deleted"
+msgstr "De groep is met succes verwijderd"
+
+#: ../../../model/processors/DialogDataProcessor.php:712
+msgid "Not all members are removed from the group. Try again."
+msgstr "Er zijn nog leden in de groep aanwezig. Probeer opnieuw"
+
+#: ../../../model/processors/DialogDataProcessor.php:718
+msgid "Group is <b>not</b> successful deleted. Try again."
+msgstr "De groep is <b>niet</b> succesvol toegevoegd. Probeer opnieuw."
+
+#: ../../../model/processors/DialogDataProcessor.php:724
+msgid "This group is not empty. Delete all other groups first."
+msgstr "Deze groep is niet leeg. Verwijder eerst alle andere groepen."
+
+#: ../../../model/processors/DialogDataProcessor.php:761
+#, php-format
+msgid "Use between %s and %s characters"
+msgstr "Gebruik tussen de %s en %s tekens"
+
+#: ../../../model/processors/GetAddressDataProcessor.php:42
+#: ../../../model/processors/GetAddressDataProcessor.php:127
+#: ../../../model/processors/GetEventDataProcessor.php:86
+#: ../../../model/processors/GetGroupDataProcessor.php:29
+#: ../../../model/processors/GetGroupDataProcessor.php:104
+#: ../../../model/processors/GetHomeDataProcessor.php:46
+msgid "No data found"
+msgstr "Geen gegevens gevonden"
+
+#: ../../../model/processors/GetAddressDataProcessor.php:111
+#: ../../../model/processors/GetMemberDataProcessor.php:38
+#: ../../../model/processors/GetMemberDataProcessor.php:42
+msgid "No members available"
+msgstr "Geen leden aanwezig"
+
+#: ../../../model/processors/GetDownloadProcessor.php:77
+msgid "Selected file can be downloaded"
+msgstr "Het bestand kan nu worden gedownload"
+
+#: ../../../model/processors/GetDownloadProcessor.php:79
+msgid ""
+"For our and your own (data) protection, please don't send this document per "
+"E-mail. Instead copy the following link into your mail if you want to "
+"distribute this document. The download will stay for a week on the server"
+msgstr ""
+"<strong>Let op!</strong> Ga zorgvuldig om met de gegevens van uzelf en die "
+"van anderen. Verstuur daarom het document niet per e-mail naar anderen. "
+"Gebruik onderstaande link als u het document wilt verspreiden. Het bestand "
+"blijft een week lang beschikbaar."
+
+#: ../../../model/processors/GetEmailDataProcessor.php:34
+msgid "No message given or message is to short"
+msgstr ""
+"De tekst van het e-mail bericht is te kort om via deze weg te kunnen "
+"versturen."
+
+#: ../../../model/processors/GetEmailDataProcessor.php:41
+msgid "No subject given or subject is to short"
+msgstr ""
+"Het onderwerp van de e-mail is te kort om via deze weg te kunnen versturen."
+
+#: ../../../model/processors/GetEmailDataProcessor.php:49
+msgid "No receivers"
+msgstr "Geen ontvanger opgegeven"
+
+#: ../../../model/processors/GetEmailDataProcessor.php:102
+#: ../../../model/processors/GetGroupsDataProcessor.php:69
+msgid "All members"
+msgstr "Alle leden"
+
+#: ../../../model/processors/GetEventDataProcessor.php:32
+msgid "Delete event"
+msgstr "Verwijder deze gebeurtenis"
+
+#: ../../../model/processors/GetEventDataProcessor.php:40
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:36
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:54
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:181
+msgid "Date"
+msgstr "Datum"
+
+#: ../../../model/processors/GetEventDataProcessor.php:51
+msgid "Involved"
+msgstr "Betrokkene"
+
+#: ../../../model/processors/GetEventDataProcessor.php:72
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:59
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:179
+msgid "Note"
+msgstr "Opmerking"
+
+#: ../../../model/processors/GetExportDataProcessor.php:47
+#: ../../../model/processors/GetExportDataProcessor.php:53
+msgid "Address list"
+msgstr "Adressenlijst"
+
+#: ../../../model/processors/GetExportDataProcessor.php:48
+msgid "Members &amp; addresses"
+msgstr "gemeenteleden met adressen"
+
+#: ../../../model/processors/GetExportDataProcessor.php:59
+#: ../../../model/processors/GetExportDataProcessor.php:65
+msgid "Groups &amp; members"
+msgstr "groepen met gemeenteleden"
+
+#: ../../../model/processors/GetExportDataProcessor.php:69
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:174
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:123
+msgid "Birthdates"
+msgstr "Verjaardagen"
+
+#: ../../../model/processors/GetExportDataProcessor.php:73
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:179
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:128
+msgid "Birthdates children (<=12 year) &amp; elderly persons (>=65 years)"
+msgstr "Verjaardagen kinderen (tot en met 12 jaar) &amp; ouderen (vanaf 65)"
+
+#: ../../../model/processors/GetExportDataProcessor.php:77
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:184
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:133
+msgid "All mariagedates"
+msgstr "Alle trouwdagen"
+
+#: ../../../model/processors/GetExportDataProcessor.php:87
+msgid "Report"
+msgstr "Raport"
+
+#: ../../../model/processors/GetExportDataProcessor.php:91
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:189
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:138
+msgid "All changes in administration of last year"
+msgstr "Mutaties in de ledenadministratie van afgelopen jaar"
+
+#: ../../../model/processors/GetExportDataProcessor.php:436
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:203
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:14
+msgid "Distribution members"
+msgstr "Verdeling leden"
+
+#: ../../../model/processors/GetExportDataProcessor.php:443
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:201
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:12
+msgid "Total addresses"
+msgstr "Totaal aantal adressen"
+
+#: ../../../model/processors/GetExportDataProcessor.php:444
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:202
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:13
+msgid "Total members"
+msgstr "Totaal aantal leden"
+
+#: ../../../model/processors/GetExportDataProcessor.php:451
+msgid "Statistics since"
+msgstr "Statistieken sinds"
+
+#: ../../../model/processors/GetExportDataProcessor.php:462
+msgid "All changes in administration since"
+msgstr "Mutaties in de ledenadministratie sinds"
+
+#: ../../../model/processors/GetReportDataProcessor.php:433
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:210
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:163
+msgid "Photo"
+msgstr "Foto"
+
+#: ../../../model/processors/LivesearchProcessor.php:98
+msgid "No results"
+msgstr "Geen resultaten"
+
+#: ../../../model/processors/PhotoUploadProcessor.php:29
+msgid "Photo upload has failed"
+msgstr "Het versturen van de foto is mislukt"
+
+#: ../../../model/processors/admin/AdminProcessor.php:103
+#, php-format
+msgid "Result: %d empty addresses deleted"
+msgstr "Resultaat: %d lege adressen verwijderd"
+
+#: ../../../model/processors/admin/AdminProcessor.php:109
+#, php-format
+msgid "Result: %d members without addresses deleted"
+msgstr "Resultaat: %d leden zonder adres verwijderd"
+
+#: ../../../model/processors/admin/AdminProcessor.php:119
+#, php-format
+msgid "%d items deleted from table %s"
+msgstr "%d items verwijderd van tabel %s"
+
+#: ../../../setup1/index.php:48
+msgid "ChurchMembers - Install"
+msgstr "Kerkelijk Bureau - Installatie"
+
+#: ../../../setup1/index.php:206
+msgid "Welcom to the ChurchMembers installation"
+msgstr "Welkom in de ChurchMembers installatie programma"
+
+#: ../../../setup1/index.php:207
+msgid "This program will guide you through the rest of the installation."
+msgstr "Dit programma begeleid je door de installatie van MODX."
+
+#: ../../../setup1/index.php:208
+msgid "After installation remove the setup directory."
+msgstr "Verwijder na de installatie de setup bestanden."
+
+#: ../../../setup1/index.php:210
+msgid "Please select the `Next` button to continue:"
+msgstr "Klik op de knop `volgende` om door te gaan:"
+
+#: ../../../setup1/index.php:214
+msgid "Install Options"
+msgstr "Installatie opties"
+
+#: ../../../setup1/index.php:221
+msgid "New Installation"
+msgstr "Nieuwe installatie"
+
+#: ../../../setup1/index.php:224
+msgid ""
+"Install a new copy of  Churchmembers - <strong>Please note this option may "
+"overwrite any data inside your database.</strong>"
+msgstr ""
+"Installeer een nieuwe versie van MODX Revolution - <strong>Let op! Deze "
+"keuze kan elke data in de database overschrijven.</strong>"
+
+#: ../../../setup1/index.php:230
+msgid "Upgrade Existing Install"
+msgstr "Upgrade bestaande installatie"
+
+#: ../../../setup1/index.php:233
+msgid "Upgrade your current files and database."
+msgstr "Upgrade jouw huidige bestanden en database."
+
+#: ../../../setup1/index.php:241
+msgid "Connection Information"
+msgstr "Verbinding Informatie"
+
+#: ../../../setup1/index.php:242
+msgid "Database connection and login information"
+msgstr "Database verbinding en inlog informatie"
+
+#: ../../../setup1/index.php:243
+msgid ""
+"Please enter the following information to connect to your ChurchMember "
+"database. If there is no database yet, the installer will attempt to create "
+"it for you. (This may fail if your database configuration or the database "
+"user permissions do not allow it.)"
+msgstr ""
+"Vul de naam van de database voor ChurchMembers in. Indien deze nog niet "
+"bestaat dan zal de installatie deze proberen te maken. Dit kan falen "
+"afhankelijk van de MySQL configuratie of de database rechten voor jouw "
+"domein/installatie."
+
+#: ../../../setup1/index.php:247
+msgid "Database host:"
+msgstr "Database server:"
+
+#: ../../../setup1/index.php:252
+msgid "Database admin/editor login name:"
+msgstr "Database admin/editor gebruikersnaam:"
+
+#: ../../../setup1/index.php:257
+msgid "Database admin/editor password:"
+msgstr "Database admin/editor wachtwoord:"
+
+#: ../../../setup1/index.php:262
+msgid "Database core login name:"
+msgstr "Database standaard(core) gebruikersnaam:"
+
+#: ../../../setup1/index.php:267
+msgid "Database core password:"
+msgstr "Database standaard(core) wachtwoord:"
+
+#: ../../../setup1/index.php:272
+msgid "Database name:"
+msgstr "Database naam:"
+
+#: ../../../setup1/index.php:277
+msgid "Table prefix:"
+msgstr "Tabel prefix:"
+
+#: ../../../setup1/index.php:282
+msgid "Test database server connection & create database if necessary."
+msgstr "Test de database server verbinding & maak database indien nodig."
+
+#: ../../../setup1/index.php:285
+msgid "Connecting to database server:"
+msgstr "Verbinden met database server:"
+
+#: ../../../setup1/index.php:288
+msgid "Checking MySQL server version:"
+msgstr "Controleren MySQL server version:"
+
+#: ../../../setup1/index.php:289
+msgid "Checking MySQL client version:"
+msgstr "Controleren MySQL client version:"
+
+#: ../../../setup1/index.php:297
+msgid "Default Admin User"
+msgstr "Admin Account"
+
+#: ../../../setup1/index.php:298
+msgid ""
+"Now you&#39;ll need to enter some details for the main administrator "
+"account. You can fill in your own name here, and a password you&#39;re not "
+"likely to forget. You&#39;ll need these to log into Admin once setup is "
+"complete."
+msgstr ""
+"Vul nu een aantal details in voor het admin account. Je kunt hier jouw naam "
+"en wachtwoord invullen, welke je niet vergeet. Je bent deze nodig om in te "
+"loggen in de Admin zodra de installatie is voltooid."
+
+#: ../../../setup1/index.php:303
+msgid "Administrator username:"
+msgstr "Admin gebruikersnaam:"
+
+#: ../../../setup1/index.php:308
+msgid "Administrator password:"
+msgstr "Admin wachtwoord:"
+
+#: ../../../setup1/index.php:313
+msgid "Administrator email:"
+msgstr "Admin emailadres:"
+
+#: ../../../setup1/index.php:322
+msgid "Installation conditions & creating directories"
+msgstr "Installatie condities &amp; controlle mappen"
+
+#: ../../../setup1/index.php:330
+msgid "Install Churchmembers"
+msgstr "Installeer ChurchMembers"
+
+#: ../../../setup1/index.php:332
+msgid "Installing Churchmembers..."
+msgstr "Installeren Churchmembers..."
+
+#: ../../../setup1/index.php:334
+msgid "Installation is successful."
+msgstr "Installatie is gelukt."
+
+#: ../../../setup1/index.php:340
+msgid "Remove setup files"
+msgstr "Verwijder setup bestanden"
+
+#: ../../../setup1/index.php:341
+msgid ""
+"Do you want to remove the setupfiles? This is nessecary to start the "
+"churchmembers application."
+msgstr ""
+"Wil je de setup bestanden verwijderen? Dit is nodig om de ChurchMembers "
+"applicatie te kunnen starten."
+
+#: ../../../setup1/index.php:344
+msgid "Yes, delete the setup files"
+msgstr "Ja, verwijder de setup bestanden"
+
+#: ../../../setup1/scripts/checkdb.php:25
+msgid "Database error: Cannot connect to databaseserver with admin user"
+msgstr ""
+"Database foutmelding: Kan geen verbinding maken met de database (admin user)"
+
+#: ../../../setup1/scripts/checkdb.php:33
+msgid "Database error: Cannot connect to databaseserver with core user"
+msgstr ""
+"Database foutmelding: Kan geen verbinding maken met de database (core user)"
+
+#: ../../../setup1/scripts/checkdb.php:39
+msgid "No database selected"
+msgstr "Geen database geselecteerd"
+
+#: ../../../setup1/scripts/checkdb.php:45
+msgid "Database connection succeeded"
+msgstr "Database verbinding gelukt"
+
+#: ../../../setup1/scripts/checkdb.php:47
+msgid ""
+"Database connection succeeded. But database is not found an will be created."
+msgstr ""
+"Database verbinding gelukt. Maar de database is niet gevonden en zal worden "
+"aangemaakt."
+
+#: ../../../setup1/scripts/install.php:11
+#: ../../../setup1/scripts/preinstall.php:9
+msgid "<span style='font-weight:bold; color:red;'>FAIL!</span> <br/><br/>"
+msgstr "<span style='font-weight:bold; color:red;'>MISLUKT!</span> <br/><br/>"
+
+#: ../../../setup1/scripts/install.php:13
+#: ../../../setup1/scripts/preinstall.php:11
+msgid "<span style='font-weight:bold; color:green;'>OK!</span>  <br/><br/>"
+msgstr "<span style='font-weight:bold; color:green;'>OK!</span>  <br/><br/>"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:20
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:21
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:55
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:56
+msgid "System settings"
+msgstr "Systeeminstellingen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:22
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:23
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:104
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:105
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:109
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:111
+msgid "Userrights"
+msgstr "Gebruikersrechten"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:24
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:25
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:31
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:32
+msgid "Failed logins"
+msgstr "Blokkeringen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:28
+msgid "Table"
+msgstr "Tabel"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:29
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:30
+msgid "Empty"
+msgstr "Leeg maken"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:34
+msgid "Used password"
+msgstr "Gebruikt wachtwoord"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:35
+msgid "IP address"
+msgstr "IP adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:39
+msgid "Administration"
+msgstr "Administratie"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:40
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:48
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:54
+msgid "Hier moet nog een beschrijving over de knoppen komen."
+msgstr "Hier moet nog een beschrijving over de knoppen komen."
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:41
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:42
+msgid "Update coordinates addresses"
+msgstr "Update coordinaten van de adressen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:43
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:44
+msgid "Delete empty addresses"
+msgstr "Verwijder lege adressen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:45
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:46
+msgid "Delete members without addresses"
+msgstr "Verwijder leden zonder adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:47
+msgid "Database"
+msgstr "Database"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:49
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:50
+msgid "Truncate Tables"
+msgstr "Leeg tabellen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:51
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:52
+msgid "Create backup"
+msgstr "Maak een backup"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:53
+msgid "Import CSV"
+msgstr "Importeer CSV"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:57
+msgid "Site settings"
+msgstr "Systeem"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:58
+msgid "Systemname"
+msgstr "Site naam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:59
+msgid "Default name:"
+msgstr "Standaard naam:"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:61
+msgid "Maintenance activated"
+msgstr "Ledenadministratie in onderhoud"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:62
+msgid "Only administrator can login"
+msgstr "Alleen toegang door de administrator"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:63
+msgid "Send mail on Login"
+msgstr "Verstuur email na aanmelding"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:64
+msgid "Administrator email"
+msgstr "Admin emailadres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:65
+msgid "Cookie settings"
+msgstr "Cookies"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:66
+msgid "Cookiename"
+msgstr "Cookie naam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:67
+msgid "Cookiedomain"
+msgstr "Cookie domein"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:68
+msgid "Sets cookie on a specific domain"
+msgstr "Zet de cookie voor een specifiek domein"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:69
+msgid "Security settings"
+msgstr "Beveiliging"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:70
+msgid "Maximum number of login attemps"
+msgstr "Maximaal aantal foutieve login pogingen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:71
+msgid "Use secure SSL connection (recommended)"
+msgstr "Gebruikt een beveiligde SSL verbinding (aanbevolen)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:72
+msgid "Set secure SSL port"
+msgstr "SSL port"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:73
+msgid "Default port is 443"
+msgstr "Standaard poort is 443"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:74
+msgid "Extern authentication"
+msgstr ""
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:75
+msgid "Use extern authentication"
+msgstr ""
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:76
+msgid "Validation url"
+msgstr ""
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:77
+msgid ""
+"The URL that checks if user is already loged in, and gives USER_username and "
+"optional MEMBER_id where user is linked. 'USER_username|MEMBER_id'"
+msgstr ""
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:78
+msgid "Login url"
+msgstr "Login URL"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:79
+msgid "Logout url"
+msgstr "Logout URL"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:80
+msgid "Locale settings"
+msgstr "Taal"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:81
+msgid "Show the local officecode"
+msgstr "Laat het plaatselijke netnummer zien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:82
+msgid "Local officecode"
+msgstr "Plaatselijk netnummer"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:83
+msgid "The office code of phonenumbers (not needed)"
+msgstr "Het netnummer van de telefoonnummer in het systeem (optioneel)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:84
+msgid "Export settings"
+msgstr "Exporteren"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:85
+msgid "Enable PDF export (Using Docraptor)"
+msgstr "Gebruik de PDF export (Docraptor API-key nodig)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:86
+msgid "Docraport API key"
+msgstr "Docraptor API key"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:87
+msgid ""
+"This key is needed for pdf export. Request a key via http://docraptor.com/"
+msgstr ""
+"Deze sleutel is nodig voor de pdf export functie. Vraag een key aan via <a "
+"href='http://docraptor.com' target='_blank'>http://docraptor.com/</a>"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:88
+msgid "Google analytics account"
+msgstr "Google Analytics account"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:89
+msgid "Google analytics account id"
+msgstr "Google Analytics accountid"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:90
+msgid ""
+"Set this is to you GA id : something like UE-XXXXX-Y. This will append the "
+"Async Loading code to churchmembers"
+msgstr ""
+"Geef hier uw GA id op: zoiets als UE-XXXXX-Y. Hiermee is het mogelijk het "
+"gebruik van het systeem in kaart te brengen."
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:91
+msgid "Google analytics domain name"
+msgstr "Google Analytics domeinnaam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:92
+msgid ""
+"Default is 'none'. If you want the trackers across multiple subdomains enter "
+"'.domain.com'"
+msgstr ""
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:93
+msgid "Add extra markers to map"
+msgstr "Voeg extra markers toe"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:94
+msgid "Url to JSON file"
+msgstr "Location JSON bestand"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:95
+msgid "Set this to a JSON file if you want extra markers added to the map"
+msgstr ""
+"Om extra markers op de kaart toe tevoegen kun je hier een pad of URL naar "
+"een JSON bestand opgeven"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:96
+msgid "Mail"
+msgstr "Email"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:97
+msgid "Enable mailing members"
+msgstr "Mailing naar leden"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:98
+msgid "Mail subject prefix"
+msgstr "Start email onderwerp  "
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:99
+msgid "SMTP host"
+msgstr "SMTP host"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:100
+msgid "SMTP port"
+msgstr "SMTP port"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:101
+msgid "SMTP security"
+msgstr "SMTP security"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:102
+msgid "SMTP username"
+msgstr "SMTP username"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:103
+msgid "SMTP password"
+msgstr "SMTP password"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:106
+msgid "Select"
+msgstr "Selecteer"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:107
+msgid "Role"
+msgstr "Rol"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:108
+msgid "Description"
+msgstr "Omschrijving"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:110
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:112
+msgid "Value"
+msgstr "Waarde"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:113
+msgid "Show addresses"
+msgstr "Adressen inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:114
+msgid "Edit mode"
+msgstr "Gegevens Wijzigen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:115
+msgid "Show groups"
+msgstr "Groepen inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:116
+msgid "Add addresses"
+msgstr "Adressen toevoegen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:117
+msgid "Show mutations"
+msgstr "Mutaties inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:118
+msgid "Add groups"
+msgstr "Groepen toevoegen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:119
+msgid "Create reports"
+msgstr "Geavanceerd zoeken"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:120
+msgid "Add members"
+msgstr "Leden toevoegen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:121
+msgid "Show map"
+msgstr "Kaart inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:122
+msgid "Add relations"
+msgstr "Relaties toevoegen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:123
+msgid "View archive"
+msgstr "Archief inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:124
+msgid "Add data"
+msgstr "Data toevoegen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:125
+msgid "Show administration"
+msgstr "Administratie inzien"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:126
+msgid "Sort members"
+msgstr "Leden sorteren"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:127
+msgid "Delete data"
+msgstr "Data verwijderen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:130
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:132
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:91
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:93
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:246
+msgid "Address data"
+msgstr "Adresgegevens"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:131
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:92
+msgid "Member of"
+msgstr "Lid van/ingedeeld in"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:133
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:30
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:70
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:96
+msgid "Telephone"
+msgstr "Telefoon"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:134
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:97
+msgid "E-mail"
+msgstr "E-mail"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:135
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:98
+msgid "Overview"
+msgstr "Overzicht"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:137
+msgid "Select members"
+msgstr "Selecteer leden"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:138
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:51
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:188
+msgid "Select groups"
+msgstr "Selecteer groepen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:139
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:140
+msgid "Or pick a member"
+msgstr "Of selecteer een lid"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:141
+msgid "Search members"
+msgstr "Zoeken leden"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:142
+msgid "Only members with an emailaddress are shown"
+msgstr "Alleen leden waarvan het emailadres bekend is worden weergegeven"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:143
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:144
+msgid "Send email to members"
+msgstr "Verstuur een e-mail naar leden"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:145
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:146
+msgid "Receiver's"
+msgstr "Ontvangers"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:147
+msgid "Select on the left side"
+msgstr "Selecteer leden of groepen aan de linkerkant"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:148
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:149
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:150
+msgid "Message"
+msgstr "Bericht"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:152
+msgid "Send e-mail"
+msgstr "Verstuur e-mail"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:153
+msgid "From"
+msgstr "Van"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:154
+msgid "To"
+msgstr "Naar"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:157
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:102
+msgid "Export intro"
+msgstr ""
+"Hieronder kunt u verschillende lijsten downloaden naar PDF, Excel of Word. "
+"In Excel en Word kunt u de lijsten zelf nog handmatig aanpassen. <br/><br/"
+"><em>Mist u een lijst? Laat het dan even weten</em>"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:158
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:103
+msgid "Yearbook"
+msgstr "Jaarboek"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:160
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:161
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:165
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:166
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:170
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:171
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:175
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:176
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:180
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:181
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:185
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:186
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:190
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:191
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:104
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:105
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:109
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:110
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:114
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:115
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:119
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:120
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:124
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:125
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:129
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:130
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:134
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:135
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:139
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:140
+msgid "Export to XLS"
+msgstr "Exporteer naar Excel"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:162
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:163
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:167
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:168
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:172
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:173
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:177
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:178
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:182
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:183
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:187
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:188
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:192
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:193
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:106
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:107
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:111
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:112
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:116
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:117
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:121
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:122
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:126
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:127
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:131
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:132
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:136
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:137
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:141
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:142
+msgid "Export to DOC"
+msgstr "Exporteer naar Word"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:164
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:113
+msgid "Groups with members"
+msgstr "Alle groepen met gemeenteleden"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:169
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:118
+msgid "Groups with members (name, address, telephone)"
+msgstr "Alle groepen met gemeenteleden (naam, adres, telefoon)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:199
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:200
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:11
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:204
+msgid "Statistics till last year"
+msgstr "Statistieken tot vorig jaar"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:205
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:206
+msgid "Recent mutations"
+msgstr "Recente wijzigingen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:207
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:208
+msgid "Birthdaycalender"
+msgstr "Verjaardagskalendar"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:209
+msgid "Complete name"
+msgstr "Volledige naam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:212
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:35
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:165
+msgid "Christian name"
+msgstr "Doopnaam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:213
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:39
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:169
+msgid "Birth date"
+msgstr "Geboortedatum"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:215
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:250
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:41
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:171
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:229
+msgid "Male/Female"
+msgstr "Man/Vrouw"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:216
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:247
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:49
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:180
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:226
+msgid "Membertype"
+msgstr "Lid"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:217
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:44
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:172
+msgid "Mobilenumber"
+msgstr "Mobielnummer"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:218
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:31
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:45
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:71
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:175
+msgid "Email"
+msgstr "Email"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:219
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:187
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:17
+msgid "Member of:"
+msgstr "Ingedeeld in:"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:220
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:178
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:16
+msgid "Introduction"
+msgstr "Introductie tekst"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:223
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:224
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:259
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:194
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:195
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:241
+msgid "Filters"
+msgstr "Filters"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:225
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:196
+msgid "Reset"
+msgstr "Reset"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:226
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:197
+msgid "Birth date / etc.."
+msgstr "Geboortedatum / etc.."
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:227
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:230
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:234
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:238
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:241
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:244
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:248
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:254
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:198
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:201
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:205
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:209
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:213
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:217
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:220
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:223
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:227
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:233
+msgid "Include"
+msgstr "WEL"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:228
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:231
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:235
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:239
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:242
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:245
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:249
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:255
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:199
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:202
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:206
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:210
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:214
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:218
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:221
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:224
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:228
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:234
+msgid "Exclude"
+msgstr "NIET"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:229
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:200
+msgid "Birth date in period"
+msgstr "Geboren in de periode"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:232
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:236
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:246
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:203
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:207
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:211
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:215
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:225
+msgid "Till"
+msgstr "tot"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:240
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:219
+msgid "Event type"
+msgstr "Gebeurtenis"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:243
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:222
+msgid "Period"
+msgstr "Periode"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:253
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:28
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:40
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:57
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:68
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:170
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:182
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:232
+msgid "City"
+msgstr "Stad"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:256
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:257
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:258
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:238
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:239
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:240
+msgid "Only Addresses"
+msgstr "Alleen adressen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:260
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:242
+msgid "Results"
+msgstr "Resultaten"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_aa887335bee1c945f3ff5f8b7776531b.php:261
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:243
+msgid "Show/hide columns"
+msgstr "Toon/verberg kolommen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:20
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:76
+msgid "New address"
+msgstr "Nieuw adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:21
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:33
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:61
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:74
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:78
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:84
+msgid "Fields marked with * are mandatory"
+msgstr "Velden gemarkeerd met * zijn verplicht"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:22
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:37
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:62
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:167
+msgid "Familyname"
+msgstr "Achternaam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:23
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:38
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:63
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:168
+msgid "Preposition"
+msgstr "Tussenvoegsel"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:24
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:64
+msgid "Street"
+msgstr "Straat"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:25
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:65
+msgid "Street number"
+msgstr "Huisnummer"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:26
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:66
+msgid "Additional streetinformation (room/building)"
+msgstr "Extra adresregel (kamer/gebouw)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:27
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:67
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:29
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:69
+msgid "Country"
+msgstr "Land"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:34
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:162
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:36
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:166
+msgid "Initials"
+msgstr "Voorletters"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:46
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:47
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:190
+msgid "Parent/Married"
+msgstr "Ouder/Getrouwd"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:48
+msgid "Child"
+msgstr "Kind"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:50
+msgid "Select address groups"
+msgstr "Selecteer adresgroepen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:53
+msgid "History event"
+msgstr "Gebeurtenis"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:55
+msgid "Partner"
+msgstr "Partner"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:56
+msgid "New membertype"
+msgstr "Nieuw lidsoort"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:58
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:183
+msgid "Church"
+msgstr "Kerk"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:72
+msgid ""
+"You are about to move this address. This action cannot be undone. Do you "
+"want to continue?"
+msgstr ""
+"U staat op het punt dit adres te verhuizen. Deze actie kan niet ongedaan "
+"worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:75
+msgid "Current address"
+msgstr "Huidig adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:79
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:85
+msgid "Send to archive"
+msgstr "Archiveren"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:80
+msgid "Archive this address"
+msgstr "Archiveer dit adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:81
+msgid "Delete address"
+msgstr "Verwijder dit adres"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:82
+msgid ""
+"You are about to delete this address. This action cannot be undone. Do you "
+"want to continue?"
+msgstr ""
+"U staat op het punt dit adres te verwijderen. Deze actie kan niet ongedaan "
+"worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:86
+msgid "Archive member"
+msgstr "Archiveer lid"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:87
+msgid "Delete member(not archived!)"
+msgstr "Verwijder lid (Niet naar archief!)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:88
+msgid ""
+"You are about to delete this member. This action cannot be undone. Do you "
+"want to continue?"
+msgstr ""
+"U staat op het punt dit lid te verwijderen. Deze actie kan niet ongedaan "
+"worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:94
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:95
+msgid "Change"
+msgstr "Wijzigen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:146
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:250
+msgid "Group description"
+msgstr "Groep beschrijving"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:147
+msgid "This group can contain"
+msgstr "Dit is een groep voor"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:148
+msgid "Display settings"
+msgstr "Weergave instellingen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:149
+msgid "Abbreviation"
+msgstr "Afkorting"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:150
+msgid "Show group abbreviation in address list"
+msgstr "Opnemen (Afk.) in adressenlijst"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:151
+msgid "Map settings"
+msgstr "Kaart instellingen"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:152
+msgid "This group is visable on the map"
+msgstr "Deze groep is zichtbaar op de kaart"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:153
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:154
+msgid "Marker image"
+msgstr "Kaart icoon"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:155
+msgid "(default is set to css/images/googlemaps/marker1.png)"
+msgstr "(Standaard: css/images/googlemaps/marker1.png)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:157
+msgid "Personal data"
+msgstr "Persoonlijke gegevens"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:158
+msgid "Church data"
+msgstr "Kerkelijke gegevens"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:160
+msgid "History"
+msgstr "Historie"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:173
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:176
+msgid "Add field"
+msgstr "Voeg veld toe"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:174
+msgid "Telephone (work)"
+msgstr "Telefoon (werk)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:177
+msgid "Email (work)"
+msgstr "Emailadres (werk)"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:191
+msgid "List member in yearbook"
+msgstr "Lid weergeven in jaarboek"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:192
+msgid "Birth date view"
+msgstr "Weergave van geboortedatum"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:193
+msgid "Familyname view"
+msgstr "Weergave achternaam"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:236
+msgid "Not in archive"
+msgstr "Niet in archief"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:237
+msgid "In archive"
+msgstr "In archief"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_265a7ad51404c3f9778f6d8fd16f0f06.php:249
+msgid "Select group"
+msgstr "Selecteer groep"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:15
+msgid "Statistics till last year "
+msgstr "Statistieken tot vorig jaar"
+
+#: C:\Users\DELEEUW\AppData\Local\Temp/poedit_Smarty_825a2b2c9fafdb1ad04f26aeb2109acb.php:18
+msgid "Members on this address"
+msgstr "Leden op dit adres"
+
+#~ msgid "Go to your own profile"
+#~ msgstr "Bekijk je eigen gegevens"
+
+#~ msgid "Selected members"
+#~ msgstr "Ge"
+
+#~ msgid "Goto top"
+#~ msgstr "Naar boven"
+
+#~ msgid "version:"
+#~ msgstr "Versie:"
+
+#~ msgid "Add events"
+#~ msgstr "Voeg gebeurtenis toe"
+
+#~ msgid "Search address"
+#~ msgstr "Zoek adres"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Show"
+#~ msgstr "Weergeven"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Refresh"
+#~ msgstr "Vernieuwen"
+
+#~ msgid "About me"
+#~ msgstr "Over mijzelf"
+
+#~ msgid "Groups with addresses"
+#~ msgstr "Adressen per groep"
+
+#~ msgid "All"
+#~ msgstr "Alles"
+
+#~ msgid "Group color (Default: #ffffff)"
+#~ msgstr "Groep kleur: (Standaard: #ffffff)"
+
+#~ msgid "Group name"
+#~ msgstr "Groepnaam"
+
+#~ msgid "Options"
+#~ msgstr "Opties"
+
+#~ msgid "Members allowed"
+#~ msgstr "Leden toegestaan"
+
+#~ msgid "Show on map"
+#~ msgstr "Bekijk op kaart"
+
+#~ msgid "Zipcode / City"
+#~ msgstr "Postcode / Stad"
+
+#~ msgid "Add relation"
+#~ msgstr "Relatie toevoegen"
+
+#~ msgid "the"
+#~ msgstr "te"
+
+#, fuzzy
+#~ msgid "Events are successful added"
+#~ msgstr "De gebeurtenis is succesvol toegevoegd."
+
+#~ msgid "Something wend wrong! Please try again.<br />"
+#~ msgstr ""
+#~ "Er is wat fout gegaan. Probeer het nogmaals. Indien het probleem blijft "
+#~ "bestaan, neem dan contact op met de webmaster."
+
+#~ msgid "Member is successful archived"
+#~ msgstr "Het lid is succesvol gearchiveerd"
+
+#~ msgid "Only members"
+#~ msgstr "G"
+
+#~ msgid "Churchmembers is currently not available"
+#~ msgstr "De ledenadministratie momenteel niet bereikbaar"
+
+#~ msgid "Mutations"
+#~ msgstr "Mutaties"
+
+#~ msgid "Select locale"
+#~ msgstr "Selecteer taal"
+
+#~ msgid "Set date locale"
+#~ msgstr "Selecteer taal (Datum & tijdweergave)"
+
+#~ msgid "%d addresses updated"
+#~ msgstr "%d adressen zijn vernieuwd"
+
+#~ msgid "Reports"
+#~ msgstr "Lijsten"
+
+#~ msgid "Made by TheLionNL &amp; Goblin47"
+#~ msgstr "Gemaakt door TheLionNL &amp; Goblin47"
+
+#, fuzzy
+#~ msgid "ChurchMembers - test"
+#~ msgstr "Kerkelijk Bureau - Installatie"
+
+#~ msgid ""
+#~ "Due to security reasons the current session is ended. Please login. (XSS !"
+#~ "IP)"
+#~ msgstr ""
+#~ "Wegens veiligheidsredenen bent u afgemeld. Log opnieuw in. (XSS !IP)"
+
+#~ msgid ""
+#~ "Due to security reasons the current session is ended. Please login. (XSS !"
+#~ "AGENT)"
+#~ msgstr ""
+#~ "Wegens veiligheidsredenen bent u afgemeld. Log opnieuw in. (XSS !AGENT)"
+
+#~ msgid ""
+#~ "You are about to delete this group. This action cannot be undone. Do you "
+#~ "want to continue?"
+#~ msgstr ""
+#~ "U staat op het punt deze groep te verwijderen. Deze actie kan niet "
+#~ "ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#~ msgid "Group is member of:"
+#~ msgstr "Groep valt onder"
+
+#~ msgid "Member"
+#~ msgstr "Lid"
+
+#~ msgid "You have not enough rights for this action."
+#~ msgstr "U heeft niet voldoende rechten voor deze actie."
+
+#~ msgid "No changes"
+#~ msgstr "Geen wijzigen"
+
+#~ msgid "Email (business)"
+#~ msgstr "Email (werk)"
+
+#~ msgid "Notes"
+#~ msgstr "Opmerkingen"
+
+#~ msgid "Latest mutations and changes"
+#~ msgstr "Laatste wijzigingen"
+
+#~ msgid "Total"
+#~ msgstr "Totaal"
+
+#~ msgid "Address id"
+#~ msgstr "Adres ID"
+
+#~ msgid "Complete address"
+#~ msgstr "Volledig adres"
+
+#~ msgid "Street / number"
+#~ msgstr "Straat / Huisnummer"
+
+#~ msgid "Member id"
+#~ msgstr "Lid ID"
+
+#~ msgid "mr"
+#~ msgstr "br."
+
+#~ msgid "mrs"
+#~ msgstr "zr."
+
+#~ msgid "Age"
+#~ msgstr "Leeftijd"
+
+#~ msgid "Mobilenumber (work)"
+#~ msgstr "Mobielnummer (werk)"
+
+#~ msgid "Introduce yourself"
+#~ msgstr "Stel jezelf voor"
+
+#~ msgid "Yearbook, addresses &amp; members"
+#~ msgstr "Jaarboek, adressen &amp; gemeenteleden"
+
+#~ msgid "Selected fields"
+#~ msgstr "Geselecteerde velden"
+
+#~ msgid "Sort by"
+#~ msgstr "Sorteren op"
+
+#~ msgid "Do you want to continue?"
+#~ msgstr "Weet u zeker dat u wilt doorgaan?"
+
+#~ msgid "This action cannot be undone. Do you want to continue?"
+#~ msgstr ""
+#~ "Deze actie kan niet ongedaan worden gemaakt. Weet u zeker dat u wilt "
+#~ "doorgaan?"
+
+#~ msgid ""
+#~ "You are about to move this address to the archive. Do you want to "
+#~ "continue?"
+#~ msgstr ""
+#~ "U staat op het punt dit adres te verwijderen. Deze actie kan niet "
+#~ "ongedaan worden gemaakt. Weet u zeker dat u wilt doorgaan?"
+
+#~ msgid ""
+#~ "You are about to move this membe to the archiver. Do you want to continue?"
+#~ msgstr ""
+#~ "U staat op het punt dit lid te verhuizen. Weet u zeker dat u wilt "
+#~ "doorgaan?"
+
+#~ msgid "Data successful archived"
+#~ msgstr "Data succesvol gearchiveerd"
+
+#~ msgid ""
+#~ "Something wend wrong! Please try again. If the problem remains, contact "
+#~ "the webmaster"
+#~ msgstr ""
+#~ "Er is wat fout gegaan. Probeer het nogmaals. Indien het probleem blijft "
+#~ "bestaan, neem dan contact op met de webmaster."
+
+#, fuzzy
+#~ msgid ""
+#~ "De data is <b>niet</b> succesvol verwijderd. Something wend wrong! Please "
+#~ "try again."
+#~ msgstr ""
+#~ "Er is wat fout gegaan. Probeer het nogmaals. Indien het probleem blijft "
+#~ "bestaan, neem dan contact op met de webmaster."
+
+#~ msgid "Wrong date format"
+#~ msgstr "Ongeldige datum"
+
+#~ msgid "Edit fail"
+#~ msgstr "Foutive wijziging"
+
+#~ msgid "Addition fail"
+#~ msgstr "Foutive toevoeging"
+
+#~ msgid "Successful addition"
+#~ msgstr "Data toegevoegd"
+
+#~ msgid "Other church"
+#~ msgstr "Andere kerk"
+
+#~ msgid "Hello World"
+#~ msgstr "Hallo Wereld"
+
+#~ msgid "Hello World!"
+#~ msgstr "Hallo Wereld!"

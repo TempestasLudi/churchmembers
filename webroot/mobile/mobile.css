@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.cluster {
+  color: #FFFFFF;
+  font-size: 14px;
+  text-align: center;
+}
+
+.cluster-1 {
+  background-image: url("../css/images/googlemaps/m1.png");
+  height: 52px;
+  line-height: 53px;
+  width: 53px;
+}
+.cluster-2 {
+  background-image: url("../css/images/googlemaps/m2.png");
+  height: 55px;
+  line-height: 53px;
+  width: 56px;
+}
+.cluster-3 {
+  background-image: url("../css/images/googlemaps/m3.png");
+  height: 65px;
+  line-height: 66px;
+  width: 66px;
+}

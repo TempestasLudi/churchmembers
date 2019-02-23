@@ -1,0 +1,709 @@
+@charset "utf-8";
+
+/*  ## RESET BROWSER DEFAULT CSS  ---------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  border: 0;
+  font-size: 13px;
+  line-height: 1.4;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+}
+
+/* =Global
+----------------------------------------------- */
+body{
+  text-align:left;
+  min-width:1000px;/* for mozilla*/
+  color:#333333;
+  font-size: 100%;
+  font-family: arial,helvetica,"Liberation Sans","DejaVu Sans Condensed",sans-serif;
+  behavior: url("css/csshover3.htc");
+  background-color: #5F5F5F;
+}
+
+/* use same measurement in IE and Firefox */
+div, input {
+  -moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+/* Links */
+a{
+  text-decoration:none;
+  color:#B50B0B;
+  cursor: hand;
+  cursor: pointer;
+}
+
+a:hover{
+  text-decoration:underline;
+  color:#B50B0B;
+}
+
+#footer a{
+  color:#FFF;
+}
+/* Images */
+img {
+}
+
+.imgInLine{
+  position: relative;
+  top: 3px;
+}
+
+/* =Structure
+----------------------------------------------- */
+#wrapper{
+  text-align:left;
+  background-color:#FFFFFF;
+  margin:0 auto;
+  margin-top:20px;
+  padding:0px 0 10px;
+  width:1000px;
+  -moz-box-shadow: 0 0 3px 5px #555;
+  -webkit-box-shadow: 0 0 3px 5px #555;
+  box-shadow: 0 0 3px 5px #555;
+}
+
+#header {
+  position:relative;
+  display:block;
+  z-index:74;
+  height:100px;
+  border-left:0px;
+  border-right:0px;
+  border-top:0px;
+  background: #3baae3;
+}
+
+.archive{
+  background:#FFCC50 !important;
+}
+
+#login {
+  border:1px solid #BFDCF2;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20em;
+  padding:15px;
+  width:500px;
+  background-color:#FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-box-shadow: 0 0 3px 5px #555;
+  -webkit-box-shadow: 0 0 3px 5px #555;
+  box-shadow: 0 0 3px 5px #555;
+}
+
+#install {
+  border:1px solid #BFDCF2;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20em;
+  padding:15px;
+  width:800px;
+  background-color:#FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-box-shadow: 0 0 3px 5px #555;
+  -webkit-box-shadow: 0 0 3px 5px #555;
+  box-shadow: 0 0 3px 5px #555;
+}
+
+h1{
+  font-size:1.5em;
+  font-weight:bold;
+}
+
+h2{
+  font-size:1.2em;
+  font-weight:bold;
+}
+
+
+th{
+  line-height: 1.8;
+  text-align:left;
+  font-weight: bold;
+  vertical-align: top;
+
+}
+
+td{
+  line-height: 1.8;
+  vertical-align: top;
+  text-align:left;
+}
+
+td a{
+  line-height: 1.8;
+}
+
+#ReportResultsTable td{
+  vertical-align: middle;
+  line-height: 18px;
+}
+
+#MembersContent{
+  min-height: 200px;
+}
+
+#DialogStatus{
+  line-height: 20px;
+  font-weight: bold;
+  font-size: 110%;
+}
+#GroupsTree {
+  min-height: 300px;
+  max-width: 100%;
+  overflow: auto;
+}
+.block-header {
+  border:none;
+  padding:10px;
+}
+
+.block-content {
+  padding:10px 20px;
+}
+
+.block-right {
+  position:relative;
+  float:right;
+  margin-bottom: 10px;
+  width: 68%;
+  display:block;
+}
+
+.block-left {
+  position:relative;
+  float:left;
+  margin-bottom: 10px;
+  width: 30%;
+  display:block;
+}
+
+.block {
+  display:block;
+  width:100%;
+}
+
+#logo {
+  position: relative;
+  margin: 10px 0;
+}
+
+#footer {
+  color:#FFF;
+  margin-top: 10px;
+  clear:both;
+  margin-bottom:-1px;
+  text-align:center;
+}
+
+#hasjs{
+  display: none;
+}
+#clr {
+  clear:both;
+}
+/* =Menu
+-------------------------------------------------------------- */
+#menu{
+  display:block;
+  z-index:1;
+  padding:10px;
+}
+
+#menu .submenu{
+  display:block;
+  float:left;
+  font-size: 0.9em;
+  padding: 3px 4px;
+  margin-right:2px;
+}
+
+#menu .submenu button{
+  border: 1px solid transparent !important;
+}
+
+#menu .submenu .ui-state-default{
+  background: transparent;
+  color: #FFF;
+}
+
+#menu .submenu .ui-state-focus{
+  background: #86C8EA;
+}
+
+#menu .submenu .ui-state-hover{
+  background: #deedf7;
+  color: #0070a3;
+}
+
+.list-of-groups{
+  font-size:110%;
+}
+
+.textbuttons a{
+  color: #2E6E9E;
+}
+
+.small{
+  font-size: 0.6em;
+  font-weight: normal;
+}
+
+/* Search
+----------------------------------------------- */
+#SearchContainer {
+  height:37px;
+  border: none;
+  margin-bottom:10px;
+  padding: 0px 10px;
+}
+
+#SearchInputDiv{
+  top: 2px;
+  position: relative;
+  float:right;
+}
+
+#SearchInput{
+  font-size: 110%;
+  width: 250px;
+  height: 32px;
+  padding-left:3px;
+  line-height: 30px;
+  border: 1px solid #AED0EA;
+}
+
+#SearchInputDiv button{
+  margin-left:5px;
+}
+
+.search-option-header > span, .ui-accordion-header  > span{
+  float: left;
+}
+/* Content
+----------------------------------------------- */
+#content{
+  display: block;
+}
+
+#loading{
+  position: absolute;
+  bottom: -30px;
+  right: -30px;
+  height: 30px;
+  z-index: 5000;
+  background-color: red;
+  font-size: 120%;
+  color: white;
+  padding: 5px;
+  display:none;
+}
+
+.memberingrid{
+  float:left;
+  width: 49%;
+  padding: 0px 5px 5px 0px;
+}
+.memberingrid .ui-button-text{
+  padding:4px;
+}
+.memberingrid .member_icon{
+  width:80px;
+  float:left;
+}
+
+.memberingrid .member_name{
+  padding-left:90px;
+  text-align: left;
+  padding-top: 18px;
+}
+
+.addressingrid{
+  float:left;
+  width: 49%;
+  padding: 0px 5px 5px 0px;
+}
+.addressingrid .ui-button-text{
+  padding:4px;
+}
+.addressingrid .member_icon{
+  width:40px;
+  float:left;
+}
+
+.addressingrid .member_name{
+  padding-left:45px;
+  text-align: left;
+  padding-top: 10px;
+}
+
+.lastevents_icon{
+  width:32px;
+  margin-right:5px;
+  float:left;
+}
+.lastevents_name{
+  float:left;
+  text-align: left;
+  padding-top:4px;
+  height: 37px;
+}
+
+.lastevents_row{
+  clear: both;
+}
+
+.member_name h1{
+  font-weight:normal;
+}
+
+/* Forms */
+.buttontext {
+  font-weight: bold;
+}
+
+.smallbutton {
+  font-size:80% !important;
+  background: none !important;
+  border: 1px solid transparent !important;
+  float:left;
+}
+
+.add_field_button {
+  font-size: .7em !important;
+}
+
+#remove_photo{
+  width: 128px;
+}
+
+.memberslist {
+  position: absolute;
+  left: -300px;
+  width: 280px;
+  top: 245px;
+}
+.memberslist button, .adminlist button {
+  width:100%;
+  text-align: right;
+  margin-bottom:2px;
+}
+
+.memberslist button span, .adminlist button span {
+  overflow:hidden;
+  display:inline-block;
+  font-weight: bold;
+}
+
+.sortableicon{
+  position:absolute; left: 0; top:5px;
+}
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, #form input, #search input{
+  border:1px solid #DDD;
+  padding:4px;
+  color: #222222;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin-right:5px;
+  margin-bottom: 2px;
+}
+
+input:hover, select:hover, #content textarea:hover, #form  input:hover{
+  border:1px solid #AED0EA;
+  -moz-box-shadow: 0 0 1px 2px #DEEDF7;
+  -webkit-box-shadow: 0 0 1px 2px #DEEDF7;
+  box-shadow: 0 0 1px 2px #DEEDF7;
+}
+
+label {
+  background-repeat:no-repeat
+}
+
+#form label{
+  width: 20em;
+  float: left;
+  display: block;
+}
+#form label.error{
+  color: red;
+  font-size: 0.8em;
+  margin-left: 0.5em;
+  float:none;
+}
+
+#form{
+  float:right;
+  text-align:left;
+  font-size:11px;
+  width: 75%;
+}
+
+#form h2 {
+  font-weight:bold;
+  font-size:26px;
+  margin-top:0;
+  margin-bottom:0;
+}
+
+#formimage {
+  float:left;
+  width:25%;
+}
+/* Report Options & Results */
+#ReportResultsDiv tr:hover{
+  cursor: hand;
+  cursor: pointer;
+}
+
+#Report_Groups_Select label span,
+#Report_Events_Select label span,
+#Report_Memberstype_Select label span,
+#Report_Gender_Select label span,
+#Report_City_Select label span,
+#Report_Archive_Select label span{
+  padding: 0.2em 1em;
+}
+
+.ReportToggleSwitch {
+  -moz-user-select: none;
+  background: none repeat scroll 0 0 #C7DEC2;
+  border: 1px solid #D3DAD8;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;	cursor: hand;
+  float: right;
+  margin-bottom: 5px;
+  width: 64px;
+}
+
+.ReportToggleSwitch span {
+  background: none repeat scroll 0 0 #E7EEEC;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border-right: 1px solid #D3DAD8;
+  -moz-box-shadow: 1px 0 #B6C5B5;
+  -webkit-box-shadow: 1px 0 #B6C5B5;
+  box-shadow: 1px 0 #B6C5B5;
+  color: #E7EEEC;
+  float: left;
+  font-size: 10px;
+  font-weight: normal;
+  height: 12px;
+  line-height: 12px;
+  text-align: center;
+  width: 30px;
+}
+
+.ReportToggleSwitch span.checked {
+  background: none repeat scroll 0 50% transparent;
+  border: 0 none;
+  box-shadow: none;
+  color: #000000;
+  width: 30px;
+}
+
+.ReportToggleSwitch span.checked + span {
+  border-left: 1px solid #D3DAD8;
+  border-right: 0 none;
+  box-shadow: -1px 0 #B6C5B5;
+}
+
+.notSelect span + span.checked {
+  background: none repeat scroll 0 0 #F08080;
+}
+
+.TitleSwitch{
+  position:relative;
+}
+
+.readmore { overflow: hidden; }
+.readmore_link { padding: 5px; border:none; border-top: solid 2px #FFF;}
+
+#GoogleMap {
+  float: left;
+  width:62%;
+  height:600px;
+}
+
+#PhotobookContainer, #ExportContainer{
+  position: relative;
+  float: right;
+  margin-bottom: 10px;
+  display: block;
+}
+
+#markersdata {
+  width:36%;
+  height:600px;
+  float: right;
+  padding: 15px 15px 0px 0px;
+  overflow-y: auto ! important;
+  overflow-x: hidden ! important;
+}
+
+#markersdata .address{
+  font-size:120%;
+  font-weight:700;
+}
+#markersdata .addressbox{
+  padding-left: 5px;
+  margin-bottom: 8px;
+}
+
+#markersdata .addressbox td{
+  line-height: 1.4;
+}
+
+#markersdata .addressbox tr:hover{
+  background-color: #DEEDF7;
+  cursor: pointer;
+}
+
+#markersdata .addressbox .addressgroup{
+  background-color: #AED0EA;
+}
+
+#markersdata img{
+  padding-right:5px;
+}
+
+.cluster {
+  color: #FFFFFF;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cluster-1 {
+  background-image: url("images/googlemaps/m1.png");
+  height: 52px;
+  line-height: 53px;
+  width: 53px;
+}
+.cluster-2 {
+  background-image: url("images/googlemaps/m2.png");
+  height: 55px;
+  line-height: 53px;
+  width: 56px;
+}
+.cluster-3 {
+  background-image: url("images/googlemaps/m3.png");
+  height: 65px;
+  line-height: 66px;
+  width: 66px;
+}
+
+.gal-item {
+  float: left;
+  margin: 2px;
+  width: 80px;
+  height: 80px;
+  opacity: 0.9;
+}
+
+.gal-item:hover{
+  opacity: 1;
+}
+
+.introductionimg{
+  position: absolute;
+}
+
+#tabs-left {
+	position: relative;
+        border: none !important;
+}
+#tabs-left .ui-tabs-nav {
+	position: absolute;
+	left: -314px;
+	top: 0.25em;
+	bottom: 0.25em;
+	width: 270px;
+	padding: 0.2em 0 0.2em 0.2em;
+        background: transparent;
+	border-width: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+#tabs-left .ui-tabs-nav li {
+	right: 1px;
+	width: 100%;
+	border-bottom-width: 1px !important;
+	-moz-border-radius: 4px 0px 0px 4px;
+	-webkit-border-radius: 4px 0px 0px 4px;
+	border-radius: 4px 0px 0px 4px;
+	overflow: hidden;
+}
+
+#tabs-left .ui-tabs-nav li a {
+	float: right;
+	text-align: right;
+        font-weight: bold;
+}
+#tabs-left > div {
+        padding: 0px;
+}
+
+#Report_Options_Accordion .ui-accordion-content {
+  padding: 15px !important;
+}
+
+.splitbutton{ display: inline-block; position:absolute; }
+.splitbutton > ul{ position:absolute !important; width:150px; z-index:999; }
+.splitbutton > ul > li > a{ width: 93%; padding:5px 4px !important; }
+
+.Receiverslist {width:100%;}
+.Receiverslist > li {list-style: none; display: inline;}
+.Receiverslist .ui-button-text {padding: 1px 5px 1px 26px;}
+
+/* 3th party css
+----------------------------------------------- */
+#cboxLoadedContent{
+  overflow-x: hidden !important;
+  overflow-y: auto  !important;
+}
+
+.ui-progressbar-value { background-image: url(images/progress.gif); }
+
+.ui-autocomplete {
+  max-height: 150px;
+  overflow-y: auto;
+  /* prevent horizontal scrollbar */
+  overflow-x: hidden;
+  /* add padding to account for vertical scrollbar */
+  padding-right: 20px;
+}
+
+.ui-tabs-hide {
+display: none !important;
+}
+
+.ui-jqgrid {
+  border: none;
+  border-top: 1px solid #AED0EA;
+}
+
+.ui-accordion-content {
+  padding: 5px !important;
+}
+.ui-menu-item a{
+  width:100%;
+}
